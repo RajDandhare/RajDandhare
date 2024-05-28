@@ -1,8 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj Dandhare
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raj Jayant Dandhare
 ===========================================================================================================================================
 
-* 🌍  I'm based in India, Maharashtra
+During my first year of engineering, I was introduced to the world of programming, which ignited my passion for the IT industry. Subsequently, I delved into learning various programming languages such as C, C++, Data Structures, and Python. Upon graduating from engineering, I pursued a course that provided me with a comprehensive understanding of DevOps, a methodology that emphasizes the seamless automation of both development and deployment processes. This exposure further fueled my enthusiasm for exploring the intricacies of DevOps.
+
+* 🌍  I'm based in India
 * ✉️  You can contact me at [rajdandhare2017@gmail.com](mailto:rajdandhare2017@gmail.com)
+* 🧠  I'm learning DevOps, AWS, and more....
 
 ### Skills
 
